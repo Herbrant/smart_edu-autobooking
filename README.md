@@ -1,4 +1,6 @@
 # smart_edu-autobooking
+[![CodeFactor](https://www.codefactor.io/repository/github/herbrant/smart_edu-autobooking/badge)](https://www.codefactor.io/repository/github/herbrant/smart_edu-autobooking)
+
 Sistema di autoprenotazione per l'aula studio Johnson@DMI-UNICT
 
 ## :notebook: Requisiti
