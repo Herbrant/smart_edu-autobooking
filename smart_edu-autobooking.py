@@ -1,10 +1,8 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.action_chains import ActionChains
 import time
 
 driver = webdriver.Firefox()
-actions = ActionChains(driver)
 driver.set_window_position(0, 0)
 driver.set_window_size(1024, 768)
 

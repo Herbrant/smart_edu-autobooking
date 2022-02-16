@@ -20,5 +20,5 @@ dove \<CF\> rappresenta il tuo codice fiscale e \<PASSWD\> la tua password del p
 - [Herbrant](https://github.com/Herbrant) (Davide Carnemolla)
 - [Daedalus9](https://github.com/Daedalus9) (Luca Longo)
 
-## License
+## :scroll: License
 Distributed under the GPLv3 License. See LICENSE for more information.
