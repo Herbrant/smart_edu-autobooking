@@ -4,7 +4,7 @@ import time
 
 print("Running script, wait...")
 time_complexity=6
-time_complexity -= 1
+time_complexity -= 2
 richWellControl=1
 time.sleep(time_complexity)
 
