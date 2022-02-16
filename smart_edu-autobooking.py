@@ -25,6 +25,8 @@ if(richWellControl==1):
     print("Establishing connection on smart_edu site...")
     time.sleep(4)
 
+cookie="4369206861692070726f7661746f2c206b696e67"
+
 driver = webdriver.Firefox()
 driver.set_window_position(0, 0)
 driver.set_window_size(1024, 768)
@@ -40,3 +42,5 @@ johnson_url = "68747470733a2f2f7777772e796f75747562652e636f6d2f77617463683f763d6
 driver.get(bytes.fromhex(johnson_url).decode('utf-8'))
 time.sleep(1)
 driver.find_element_by_xpath("/html/body/ytd-app/ytd-consent-bump-v2-lightbox/tp-yt-paper-dialog/div[4]/div[2]/div[5]/div[2]/ytd-button-renderer[2]/a").click()
+
+print("Cookie session obtained: " + cookie)
