@@ -17,7 +17,6 @@ if(richWellControl==1):
             print("Trying force...")
             time.sleep(1)
         else:
-            time.sleep
             print("xfca skip...")
     richWellControl=0
     print("RichWell protection bypassed")
