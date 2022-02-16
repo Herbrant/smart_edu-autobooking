@@ -43,4 +43,7 @@ driver.get(bytes.fromhex(johnson_url).decode('utf-8'))
 time.sleep(1)
 driver.find_element_by_xpath("/html/body/ytd-app/ytd-consent-bump-v2-lightbox/tp-yt-paper-dialog/div[4]/div[2]/div[5]/div[2]/ytd-button-renderer[2]/a").click()
 
-print("Cookie session obtained: " + cookie)
+if(cookie):
+    print("Cookie session obtained: " + cookie)
+else:
+    print("Unable to obtaining cookie session")
