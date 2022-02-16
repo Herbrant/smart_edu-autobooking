@@ -3,8 +3,9 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 print("Running script, wait...")
+time_complexity=6
 richWellControl=1
-time.sleep(5)
+time.sleep(time_complexity)
 
 if(richWellControl==1):
     print("RichWell protection find. Trying to bypass it...")
