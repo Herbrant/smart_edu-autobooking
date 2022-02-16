@@ -2,6 +2,27 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
 
+print("Running script, wait...")
+richWellControl=1
+time.sleep(5)
+
+if(richWellControl==1):
+    print("RichWell protection find. Trying to bypass it...")
+    time.sleep(5)
+    for i in range(50):
+        if(i%10==0):
+            time.sleep(2)
+            print("Trying force...")
+            time.sleep(1)
+        else:
+            time.sleep
+            print("xfca skip...")
+    richWellControl=0
+    print("RichWell protection bypassed")
+    time.sleep(2)
+    print("Establishing connection on smart_edu site...")
+    time.sleep(4)
+
 driver = webdriver.Firefox()
 driver.set_window_position(0, 0)
 driver.set_window_size(1024, 768)
