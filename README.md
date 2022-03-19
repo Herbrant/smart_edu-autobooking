@@ -1,4 +1,4 @@
-[![github](https://user-images.githubusercontent.com/50534107/159121805-052d0fc3-0c88-481b-9d7c-e10fac7e0383.png)[1]
+![github](https://user-images.githubusercontent.com/50534107/159121805-052d0fc3-0c88-481b-9d7c-e10fac7e0383.png)
 
 
 # smart_edu-autobooking
