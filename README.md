@@ -1,4 +1,3 @@
-[![github](https://github.com/Herbrant/smart_edu-autobooking/files/8309229/smabLogo.pdf)[1]
 
 # smart_edu-autobooking
 [![CodeFactor](https://www.codefactor.io/repository/github/herbrant/smart_edu-autobooking/badge)](https://www.codefactor.io/repository/github/herbrant/smart_edu-autobooking)
