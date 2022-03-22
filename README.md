@@ -21,6 +21,7 @@ dove \<CF\> rappresenta il tuo codice fiscale e \<PASSWD\> la tua password del p
 ## Contributors
 - [Herbrant](https://github.com/Herbrant) (Davide Carnemolla)
 - [Daedalus9](https://github.com/Daedalus9) (Luca Longo)
+- [Mimir] (https://www.instagram.com/remedyluna/) (Chiara Bonanno)
 
 ## :scroll: License
 Distributed under the GPLv3 License. See LICENSE for more information.
